@@ -1,7 +1,9 @@
 # DWM con fullgaps y sytrayStatus2D.6.4
-# suckless
----
+## suckless
+
 1-Instalar Dwm creando la carpeta suckless en el /home/user/suckless
+se puede crear un enlace dwm y slstatus a
+/usr/local/bin
 2-en la ruta /usr/share/xsessions
 crea el archivo dwm.desktop y copiar y pegar
 ---
